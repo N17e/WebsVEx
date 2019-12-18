@@ -1,0 +1,86 @@
+/* CSS Document */
+body{
+	background-color: #eee;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+a{
+	text-decoration:none;
+	color: red;
+}
+
+h1, h2, h3, h4{
+	margin: 0;
+}
+#container{
+	background-color:aliceblue;
+	width: 900px;
+	height: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header{
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+#userinfo{
+	padding: 5px;
+	text-align: right;
+	color: white;
+	background-color: #4dc3ff;
+}
+#content{
+	padding: 10px;
+	height: auto;
+}
+
+#sidenav{
+	width: 30%;
+	float: right;
+}
+
+
+#main{
+	width: 69%;
+	padding-right: 1px;
+	float: left;
+	
+}
+#vulnerable_code_area{
+	width: 69%;
+	
+}
+
+#footer{
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: antiquewhite;
+	text-align: right;
+}
+
+.AnswerButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.AnswerButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.AnswerButton:active {
+	position:relative;
+	top:1px;
+}
