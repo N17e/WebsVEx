@@ -25,11 +25,6 @@ The environment was build for study purposed. Can made more improvement with ass
 This project was built using PHP and HTML only. 
 The database was using phpmyadmin
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Built With
 
 * [Notepad++](https://notepad-plus-plus.org/) - The software that being use for coding
